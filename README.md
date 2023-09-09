@@ -1,4 +1,4 @@
-### Hi there 👋
+### my name is kimsunkyu and I am a freshman at Gachon University
 
 <!--
 **harusiru/harusiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
